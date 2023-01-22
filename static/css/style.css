@@ -1,0 +1,14 @@
+.class_h {
+    color: crimson;
+}
+
+h2 {
+    color: aquamarine;
+}
+
+form {
+    width: 400px;
+    padding: 1em;
+    border: 1px solid #CCC;
+    border-radius: 1em;
+}
